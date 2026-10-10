@@ -2,4 +2,6 @@
 title: Tiyatro Prova Sayfası
 ---
 
-Merhaba! Prova notları, takvim ve görevler burada olacak.
+Kumbaracı50 Parti Oyunu Prova Notları
+Prova notlarına tarihleriyle birlikte Provalar sekmesinden erişilebilir.
+
