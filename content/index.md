@@ -1,8 +1,8 @@
 ---
-title: Tiyatro Prova Sayfası
+title: Genç Ekip Prova Sayfası
 ---
 
-Kumbaracı50 Parti Oyunu Prova Notları
+> [!info] Sonraki prova
+> **10 Ekim Cumartesi, 22:00**, Kumbaracı (gece provası)
 
-Prova notlarına tarihleriyle birlikte Provalar sekmesinden erişilebilir.
-
+Soldaki menüden prova notlarına, takvime ve eksiklere ulaşabilirsiniz.
