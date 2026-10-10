@@ -19,4 +19,4 @@ title: Takvim
 
 | Tarih | Saat | Yer | Not |
 |---|---|---|---|
-| 9 Eki Cum | 22:00 | Kumbaracı | Gece provası |
+| 9 Eki Cum | 22:00 | Kumbaracı | [[provalar/2026-10-09.md]] |
