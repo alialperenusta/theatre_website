@@ -3,7 +3,7 @@ title: Genç Ekip Prova Sayfası
 ---
 
 > [!info] Sonraki prova
-> **12 Ekim Pazartesi, 18:00**, Mekansız
+> ** 23 Ekim Cuma, 22:00**, Kumbaracı
 
 Soldaki menüden prova notlarına, takvime ve atölye notlarına ulaşabilirsiniz.
 
