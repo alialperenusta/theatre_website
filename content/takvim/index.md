@@ -38,5 +38,5 @@ title: Takvim
 |---|---|---|---|
 | 9 Eki Cum | 22:00 | Kumbaracı | [[provalar/2026-10-09.md]] |
 | 10 Eki Cmt | 22:00 | Kumbaracı | Gece provası |
-| 11 Eki Paz | 20:00 | Kumbaracı |[[provalar/2026-10-09.md]] |
-| 12 Eki Pzt (Bugün) | 18:00 | Mekansız |[[provalar/2026-10-09.md]] |
+| 11 Eki Paz | 20:00 | Kumbaracı |[[provalar/2026-10-11.md]] |
+| 12 Eki Pzt (Bugün) | 18:00 | Mekansız |[[provalar/2026-10-12.md]] |
