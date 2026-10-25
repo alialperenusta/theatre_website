@@ -6,11 +6,8 @@ title: Takvim
 
 | Tarih | Saat | Yer | Not |
 |---|---|---|---|
-| 23 Eki Cum | 22:00 | Kumbaracı | Gece provası |
-| 24 Eki Cmt | 19:00 / 22:30 | Kumbaracı | 19:00 Sena ile, 22:30 ekiple |
-| 25 Eki Paz | 18:00 sonrası | Kumbaracı | Sena yok |
-| 28 Eki Çar | 22:30 | Kumbaracı | Sena yok |
-| 30 Eki Cum | 14:00-17:00 / 18:30 | Kumbaracı | 14-17 Sena ile, 18:30 ekiple |
+
+| 30 Eki Cum | 14:00-17:00 / 18:30 | Kumbaracı | 14-17 Sena ile, 17-18:30 Berre, Sonra ekiple |
 | 31 Eki Cmt | 23:30 ❓ | Kumbaracı | Enes'in oyunu varsa off, ya da 22:00 olabilir. Duruma göre bakılacak.|
 | 1 Kas Paz | 18:30 | Kumbaracı | |
 | 5 Kas Per | 18:00-23:00 | Kadıköy | 15:00 Ayşegül–Sena. Ali Kumbaracı gişede |
@@ -40,3 +37,5 @@ title: Takvim
 | 10 Eki Cmt | 22:00 | Kumbaracı | Gece provası |
 | 11 Eki Paz | 20:00 | Kumbaracı |[[provalar/2026-10-11.md]] |
 | 12 Eki Pzt (Bugün) | 18:00 | Mekansız |[[provalar/2026-10-12.md]] |
+| 24 Eki Cmt | 19:00 / 22:30 | Kumbaracı |  |
+| 25 Eki Paz | 18:00 sonrası | Kumbaracı |[[provalar/2026-10-25.md]]  |
