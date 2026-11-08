@@ -6,7 +6,6 @@ title: Takvim
 
 | Tarih | Saat | Yer | Not |
 |---|---|---|---|
-| 8 Kas Paz | 16:30 | K50 | Gülhan hoca gelecek |
 | 9 Kas Pzt | 12:00 civarı ❓ / 17:00 | Kadıköy | Enes 1-1 eklendi (saat Sena'yla ayarlanacak, başlangıç 12:00 civarı). 14:00-17:00 Sena ile |
 | 11 Kas Çar | 15:00-19:00 | K50 | 15:00-17:00 Anıl 1-1, 17:00-19:00 Enes 1-1 (aralarında konuşup bilgi verecekler) |
 | 13 Kas Cum | 22:30 | K50 | |
@@ -39,3 +38,4 @@ title: Takvim
 | 1 Kas Paz | 18:30 | Kumbaracı | |
 | 5 Kas Per | 18:00-23:00 | Kadıköy | 15:00 Ayşegül–Sena. [[provalar/2026-11-05]] |
 | 6 Kas Cum | 22:00 | Kumbaracı | |
+| 8 Kas Paz | 16:30 | K50 | [[provalar/2026-11-08]] |
